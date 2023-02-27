@@ -1,0 +1,20 @@
+#aşağıdakileri versiyonlamak istemem!
+#IDE - VSCODE
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+# gorseller
+*.png
+*.img
+*.jpg
+img/
+# videolar
+*.mp4
+
+# loglar
+*.log
+password.txt
+# paket yöneticisi(npm vs.) ile kurulmus dosyalar
